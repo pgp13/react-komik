@@ -3,7 +3,7 @@ import { render } from 'react-dom';
 import { Panel, Character, Balloon, Strip } from './Komik';
 
 let Comic = (props) => (
-    <Strip title="React Komik!" column="2" fontFamily="Patrick Hand" fontSize="13" upperCase={true}>
+    <Strip title="Chelada Novella" column="2" fontFamily="Patrick Hand" fontSize="13" upperCase={true}>
         <Panel>
             <Character
                 image="char1.png"
@@ -39,7 +39,7 @@ let Comic = (props) => (
                     height="130"
                     left="-40"
                     image="chat_left.svg"
-                    text="Hey look! It's React Komik! We can create this comic strip with ReactJS!"
+                    text="Hey Lionel"
                     />
             </Character>
         </Panel>
