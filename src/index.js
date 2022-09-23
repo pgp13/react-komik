@@ -55,7 +55,8 @@ let Comic = (props) => (
                     />
             </Character>
         </Panel>
-        <Character image="footer.png" align="center" bottom="20" scale="0.8" />
+
+  <! ––      <Character image="footer.png" align="center" bottom="20" scale="0.8" />  ––>
     </Strip>
 );
 
