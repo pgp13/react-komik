@@ -18,7 +18,7 @@ let Comic = (props) => (
         </Panel>
         <Panel>
             <Character
-                image="char2.png"
+                image="http://chelada.com/telenovella/char2.png"
                 left="30"
                 scale="0.65">
                 <Balloon
